@@ -1,0 +1,122 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/tuxpi.com.1641013912.jpg");
+  background-position: 65.24% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 759px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 0 255px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 23px 317px 0 39px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  text-align: left;
+  margin: 62px 255px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-align: left;
+  margin: 23px 333px 0 23px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.875rem;
+  text-align: left;
+  margin: 62px 819px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  text-align: left;
+  margin: 23px 333px 60px 23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 626px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 55px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 156px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 55px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 156px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 619px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 156px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 399px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 219px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 226px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 19px;
+  }
+}

@@ -1,0 +1,72 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/tuxpi.com.1641013912.jpg");
+  background-position: 80.98% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 864px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 273px;
+  height: 273px;
+  margin: 0 auto 0 297px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 20px 295px 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 38px 286px 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 712px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 114px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 114px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 545px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 409px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 267px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 258px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 67px;
+  }
+}
